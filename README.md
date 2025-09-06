@@ -1,4 +1,10 @@
-# ![Career Compass AI Logo](./assets/logo.png) Career Compass AI
+
+<h1 align="center">
+  <img src="./assets/logo.png" alt="Career Compass AI Logo" width="120"/>
+  <br>
+  Career Compass AI
+</h1>
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/Bhavana0212/career-compass-ai?style=social)](https://github.com/Bhavana0212/career-compass-ai/stargazers) [![Demo](https://img.shields.io/badge/Live%20Demo-View-brightgreen)](https://app--career-compass-ai-a0b8bb57.base44.app)
 
